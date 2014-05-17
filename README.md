@@ -18,8 +18,14 @@ platform :ios, '7.0'
 pod 'AFNetworking', '~> 2.2'
 pod 'Shimmer', '~> 1.0.1'
 ```
-打开Terminal，进入项目根目录
+打开Terminal，进入项目根目录，运行如下命令
 
 ```shell
 $ pod install
+```
+
+运行完后会生成一个Xcode workspace (```.xcworkspace```) 文件
+
+```shell
+$ open <YourProjectName>.xcworkspace
 ```
