@@ -18,14 +18,14 @@ PODS:
   - AFNetworking/UIKit (2.2.4):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - JSONKit (1.5pre)
+  - Shimmer (1.0.1)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.2)
-  - JSONKit (~> 1.4)
+  - Shimmer (~> 1.0.1)
 
 SPEC CHECKSUMS:
   AFNetworking: 01aa7c3aa9a200b94943e54072a4373f14b3d219
-  JSONKit: b1f52f3f522b8602307769511d4fb47c6f856159
+  Shimmer: a1b92685f04ae7363e655f636a41a276dbb1507e
 
 COCOAPODS: 0.32.1

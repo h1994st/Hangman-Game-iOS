@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Shimmer/FBShimmeringView.h>
 
 @interface HTAppDelegate : UIResponder <UIApplicationDelegate>
 

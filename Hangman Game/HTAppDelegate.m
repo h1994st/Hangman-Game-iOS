@@ -7,6 +7,7 @@
 //
 
 #import "HTAppDelegate.h"
+#import "UIView+Animation.h"
 
 @implementation HTAppDelegate
 
